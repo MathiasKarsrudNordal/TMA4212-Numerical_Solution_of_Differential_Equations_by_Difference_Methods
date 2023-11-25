@@ -1,2 +1,7 @@
-# TMA4212-Numerical_Solution_of_Differential_Equations_by_Difference_Methods
-Difference schemes for different types of partial differential equations. Analysis of consistency, order, stability and convergence. Solution of linear systems by iterative methods and preconditioning. Finite element method.
+# TMA4212-Numerical Solution of Differential Equations by Difference Methods
+
+In both projects we discribe and prove much of the neccessary theory behind both finite difference and finite element methods.  
+
+Project 1: In this project we modeled the heat distribution in both isotropic and anisotropic materials through the use of FDM. Score: 20/20
+
+Project 2: In this project we modeled stationary convection diffusion problems using FEM.
